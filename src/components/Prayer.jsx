@@ -7,7 +7,8 @@ import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 export default function Prayer({ name, time, image }) {
   return (
-    <Card sx={{ width: "14vw" }}>
+    // <Card className="card">
+    <Card sx={{ minWidth: "14vw" }} className="card">
       <CardMedia sx={{ height: 140 }} image={image} title="green iguana" />
       <CardContent>
         <h2>{name}</h2>

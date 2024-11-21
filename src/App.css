@@ -33,7 +33,7 @@ html {
 }
 
 .card {
-  padding: 2em;
+  padding: 1em;
 }
 
 .read-the-docs {
@@ -49,6 +49,3 @@ html {
 .css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
   color: white !important;
 }
-/* .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input:focus {
-  border: none !important;
-} */
